@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AKASHCS50/Car-Reduction">
-    <img src="https://github.com/AKASHCS50/Car-Reduction/blob/master/Resources/images/Group4.png" alt="Logo" width="80" height="95">
+    <img src="https://github.com/AKASHCS50/Car-Reduction/blob/main/img.png" alt="Logo" width="80" height="95">
  </a>
   
   <h1 align="center">ferry</h1>
