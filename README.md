@@ -1,7 +1,7 @@
 [![GitHub license](https://img.shields.io/github/license/AKASHCS50/Car-Reduction)](https://github.com/AKASHCS50/Car-Reduction/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/AKASHCS50/Car-Reduction)](https://github.com/AKASHCS50/Car-Reduction/issues)
 [![GitHub contributors](https://img.shields.io/github/contributors/AKASHCS50/Car-Reduction)](https://GitHub.com/AKASHCS50/Car-Reduction/contributors/)
-[![Linkedin](https://img.shields.io/badge/opensource-linkedin-blue.svg?style=flat-square)](https://www.linkedin.com/in/akash-sharma-1a5433178/)
+[![Linkedin](https://img.shields.io/badge/opensource-linkedin-blue.svg?style=flat-square)](https://www.linkedin.com/in/-akash-sharma//)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
 
@@ -97,7 +97,7 @@ Distributed under [Apache 2.0](https://github.com/AKASHCS50/Car-Reduction/blob/m
 <!-- CONTACT -->
 ## Contact
 
-Akash Sharma :  [Gmail](mailto:akcount121@gmail.com) -   [Linkedin](https://www.linkedin.com/in/akash-sharma-1a5433178/)
+Akash Sharma :  [Gmail](mailto:akcount121@gmail.com) -   [Linkedin](https://www.linkedin.com/in/-akash-sharma/)
 
 
 Project Link : [https://github.com/AKASHCS50/Car-Reduction](https://github.com/AKASHCS50/Car-Reduction)
